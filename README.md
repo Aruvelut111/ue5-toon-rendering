@@ -11,10 +11,10 @@
 24 秒实机运镜录屏，2560×1440 / 30 fps，三段直接切接：全身展示 → 头发与头环近景 → 背面转 3/4 侧。PIE 实机逐帧采集，原生分辨率输出，未做补帧或放大。
 
 <p align="center">
-<a href="https://github.com/Aruvelut111/ue5-toon-rendering/raw/master/videos/Aimisi_Showcase50.mp4"><img width="100%" alt="24 秒实机运镜展示（点击下载原片）" src="videos/poster_showcase50.jpg" /></a>
+<a href="https://github.com/Aruvelut111/ue5-toon-rendering/raw/master/videos/Aimisi_Showcase50.mp4"><img width="100%" alt="24 秒实机运镜展示（动图预览）" src="videos/preview_showcase50.webp" /></a>
 </p>
 
-<p align="center"><sub>点击画面下载原片（2560×1440 / 30 fps / 35 MB / 无音轨）</sub></p>
+<p align="center"><sub>上图为 10 fps 动图预览，点击画面下载原片（2560×1440 / 30 fps / 35 MB / 无音轨）</sub></p>
 
 ## 近景效果
 
